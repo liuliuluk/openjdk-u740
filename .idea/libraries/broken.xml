@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="broken">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/langtools/test/tools/javac/T5090006/broken.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

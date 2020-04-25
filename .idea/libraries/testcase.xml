@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testcase">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hotspot/test/runtime/7020373/testcase.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

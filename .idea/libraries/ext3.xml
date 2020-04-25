@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ext3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/langtools/test/tools/javac/ExtDirs/ext3/pkg1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/langtools/test/tools/javac/ExtDirs/ext3/pkg2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

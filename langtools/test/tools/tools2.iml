@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/javac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javadoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javah" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javap" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="test2" level="project" />
+    <orderEntry type="library" name="ext3" level="project" />
+    <orderEntry type="library" name="golden" level="project" />
+    <orderEntry type="library" name="pkg1" level="project" />
+    <orderEntry type="library" name="pkg2" level="project" />
+    <orderEntry type="library" name="b" level="project" />
+    <orderEntry type="library" name="broken" level="project" />
+    <orderEntry type="library" name="test5" level="project" />
+    <orderEntry type="module" module-name="share2" />
+    <orderEntry type="module" module-name="remote" />
+    <orderEntry type="module" module-name="share4" />
+    <orderEntry type="module" module-name="security4" />
+    <orderEntry type="module" module-name="apt" />
+    <orderEntry type="module" module-name="share" />
+    <orderEntry type="module" module-name="javadoc" />
+    <orderEntry type="module" module-name="sun" />
+    <orderEntry type="module" module-name="solaris" />
+    <orderEntry type="module" module-name="macosx" />
+    <orderEntry type="module" module-name="mirror" />
+    <orderEntry type="module" module-name="windows" />
+  </component>
+</module>

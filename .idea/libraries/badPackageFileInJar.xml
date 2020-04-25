@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="badPackageFileInJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/langtools/test/com/sun/javadoc/testBadPackageFileInJar/badPackageFileInJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
